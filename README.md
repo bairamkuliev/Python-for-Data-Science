@@ -7,5 +7,7 @@ In this project, I demonstrate the subtleties of the Python characteristics requ
    <p>-Comparing with scalars</p>
    <p>-Filtering with scalars</p>
    <p>-Setting values with scalars</p>
+  ***
+  
   
 
