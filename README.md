@@ -6,6 +6,6 @@ In this project, I demonstrate the subtleties of the Python characteristics requ
    -Data slicing
    -Comparing with scalars
    -Filtering with scalars
-   -Setting values with scalars
+   <p>-Setting values with scalars</p>
   
 
