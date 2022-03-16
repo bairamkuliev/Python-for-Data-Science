@@ -1,11 +1,11 @@
 # Python-for-Data-Science-Training
 In this project, I demonstrate the subtleties of the Python characteristics required to learn date science.
 
-1.Data preparation:
+1.<h2>Data preparation</h2>:
 
-   <h1>Selecting and retrieving data</h1>
+   <p><h4>Selecting and retrieving data</h4><p>
    
-   -Filtering and selecting data
+   <p><p>-Filtering and selecting data</p></p>
   
    -Data slicing
  
