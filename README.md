@@ -3,7 +3,7 @@ In this project, I demonstrate the subtleties of the Python characteristics requ
 
 1.Data preparation:
 
-   <h1>Selecting and retrieving data</h>
+   <h1>Selecting and retrieving data</h1>
    
    -Filtering and selecting data
   
