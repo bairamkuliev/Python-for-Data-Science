@@ -3,13 +3,9 @@ In this project, I demonstrate the subtleties of the Python characteristics requ
 <h1>1.Data preparation:</h1>
    <h3>Selecting and retrieving data:</h3>
    -Filtering and selecting data
-  
    -Data slicing
- 
    -Comparing with scalars
-  
    -Filtering with scalars
-  
    -Setting values with scalars
   
 
