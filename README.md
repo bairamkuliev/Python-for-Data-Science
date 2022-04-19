@@ -1,4 +1,4 @@
-# Python-for-Data-Science-Training
+# Python-for-Data-Science
 In this area, I demonstrate my data science training on various topics.
 <p>1.Data preparation</p>
 <p>2.Data Visualization</p>
