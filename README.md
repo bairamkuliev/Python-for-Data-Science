@@ -9,3 +9,4 @@ In this area, I demonstrate my data science training on various topics.
 <p>7.Clustering Models</p>
 <p>8.Dimension Reduction Methods</p>
 <p>9.Other Popular Machine Learning Methods</p>
+<p>10.Data Structures in Pure Python</p>
